@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Thanh Tùng aaa",
+      "email": "thanhtung10112@gmail.com",
+      "phone": "0902831297",
+      "address": "VietNam"
+    }
+  ]
+}
